@@ -7,7 +7,7 @@
 - [Mongo DB](https://www.mongodb.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
-# ![Note Zipper](https://github.com/kapil-77/ExerciseTracker//master/images/landing.png)
+# ![Exercise Tracker](https://github.com/kapil-77/ExerciseTracker/images/landing.png)
 
 # Getting Started with Create React App
 
