@@ -7,6 +7,8 @@
 - [Mongo DB](https://www.mongodb.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
+# ![Note Zipper](https://github.com/kapil-77/notezipper/blob/master/images/landing.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
