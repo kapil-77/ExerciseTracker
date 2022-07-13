@@ -7,7 +7,20 @@
 - [Mongo DB](https://www.mongodb.com/)
 - [Bootstrap](http://getbootstrap.com/)
 
-# ![Exercise Tracker](https://github.com/kapil-77/ExerciseTracker/blob/main/images/landing.png)
+### Landing Page 
+![](https://github.com/kapil-77/ExerciseTracker/blob/main/images/landing.png)
+
+### Login Page 
+![](https://github.com/kapil-77/ExerciseTracker/blob/main/images/login.png)
+
+### Register Page 
+![](https://github.com/kapil-77/ExerciseTracker/blob/main/images/register.png)
+
+### Create Page 
+![](https://github.com/kapil-77/ExerciseTracker/blob/main/images/create.png)
+
+### Exercises Page 
+![](https://github.com/kapil-77/ExerciseTracker/blob/main/images/exercises.png)
 
 # Getting Started with Create React App
 
