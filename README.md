@@ -1,7 +1,11 @@
 Code for MERN tutorial.
 
-Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
+## Built with 
 
-Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+- [React JS](https://reactjs.org/)
+- [Node JS](https://nodejs.org/) 
+- [Express JS](https://expressjs.com/)
+- [Mongo DB](https://www.mongodb.com/)
+- [Bootstrap](http://getbootstrap.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
